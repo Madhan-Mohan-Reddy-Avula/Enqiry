@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259155657247",
+    "project_id": "enquiry-bot-a3e60",
+    "storage_bucket": "enquiry-bot-a3e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259155657247:android:cb586d7cb2fc5d27f24b2a",
+        "android_client_info": {
+          "package_name": "com.limt.titantrove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KrKJIM_GbmgFa9Z1tkvrMlkS0vJH4bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259155657247:android:7209fb11b9ad9f13f24b2a",
+        "android_client_info": {
+          "package_name": "my.project.Enquiry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KrKJIM_GbmgFa9Z1tkvrMlkS0vJH4bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

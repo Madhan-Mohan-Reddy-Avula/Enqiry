@@ -1,0 +1,98 @@
+
+  #app {
+    background-color: transparent !important;
+  }
+  .logimput{
+    --border-color: rgb(134, 239, 134);
+    margin-bottom: 20px !important;
+  
+  }
+  .logbutt{
+    padding: 20px;
+    
+  }
+  .butt{
+    text-align: center;
+  }
+  ion-content {
+    --background: transparent;
+  }
+  .my-custom-camera-preview-content {
+    --background: transparent;
+  }
+  #cameraPreview{
+    height: 350px;
+  }
+  .input{
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+    margin: 3px;
+    text-align: left;
+    padding: 2px;
+  }
+  .goto{
+    color: azure;
+  }
+  .para{
+    font-size: 30px;
+  }
+.custom-grid {
+    height: 410px; 
+    padding-top: 10px;
+    text-align: center;
+    
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    margin-bottom: 20px;
+    border-radius: 20px;
+  }
+.custom-grid1 {
+    padding-left: 20px;
+    color: aliceblue;
+    overflow-y: scroll;
+    
+    height: 150px; 
+    background-color: rgb(0, 0, 0);/* Set the desired height */
+    border-radius: 20px;
+  }
+.custom-button1{
+  height: 55px;
+  width: 25px;
+  margin-left: 12px;
+  margin-right: 25px;
+  color: rgb(186, 152, 237);
+
+  
+}
+.custom-button0{
+  height: 55px;
+  width: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  color: red;
+}
+.custom-button2{
+  height: 55px;
+  width: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.custom-button3{
+  height: 55px;
+  width: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.title{
+  text-align: center;
+  color: rgba(5, 243, 76, 0.695);
+}
+.icard{
+  background-color: rgb(244, 246, 244);
+  padding-top: 10px;
+  text-align: center;
+  
+}
+.ion{
+  color: azure;
+}

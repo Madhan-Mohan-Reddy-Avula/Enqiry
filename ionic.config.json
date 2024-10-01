@@ -1,0 +1,7 @@
+{
+  "name": "Enquiry",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type" : "react-vite"
+}

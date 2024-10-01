@@ -1,0 +1,21 @@
+[debug] [2024-04-18T10:34:09.982Z] ----------------------------------------------------------------------
+[debug] [2024-04-18T10:34:09.984Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\madha\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-04-18T10:34:09.984Z] CLI Version:   13.7.3
+[debug] [2024-04-18T10:34:09.984Z] Platform:      win32
+[debug] [2024-04-18T10:34:09.984Z] Node Version:  v20.11.1
+[debug] [2024-04-18T10:34:09.984Z] Time:          Thu Apr 18 2024 16:04:09 GMT+0530 (India Standard Time)
+[debug] [2024-04-18T10:34:09.985Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-18T10:34:09.989Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-18T10:34:09.990Z] > authorizing via signed-in user (madhanmohanreddy788@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\madha\OneDrive\Desktop\Enquiry_project\EnquiryApp\Enquiry
+
