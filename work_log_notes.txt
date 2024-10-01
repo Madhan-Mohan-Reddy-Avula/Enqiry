@@ -1,0 +1,69 @@
+30-03-2024
+
+
+completed
+
+
+1. add the Android platform to the sample project  -completed
+
+2. add emulator for testing   -completed
+3. install the app on the phone through a wired connection -completed
+4. install an app on your phone -completed
+5. install the camera plugin in the source  -completed
+	-npm install @capacitor/camera
+ 	-npx cap sync
+6. add code to use the camera   -completed
+
+
+
+Pending tasks
+
+2. prepare splash screens and icons  -madhan
+3. develop an actual home page   -madhan
+4. add tensor flow in the source
+5. check tensor flow functionality
+6. prepare signing profile to build release apk   && prepare release apk and debug apk
+
+
+31-03-2024
+
+tensor flow plugin add
+
+
+		npm install @tensorflow/tfjs @tensorflow-models/coco-ssd
+
+
+		in index html
+
+
+			    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-webgl"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose"></script>
+
+open camera ->capture photo->identify object
+  
+1st target
+
+add text to speech   plugin
+
+	https://github.com/capacitor-community/text-to-speech?tab=readme-ov-file
+
+	npm install @capacitor-community/text-to-speech
+
+
+
+speech to text   plugin
+
+https://github.com/capacitor-community/speech-recognition
+
+
+testing text to speech 
+
+
+
+
+
+
+
+
+
